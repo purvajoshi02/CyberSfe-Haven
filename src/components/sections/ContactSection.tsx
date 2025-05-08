@@ -28,7 +28,7 @@ const ContactSection: React.FC = () => {
                 href="tel:+18001234567"
                 className="text-primary hover:text-primary-dark font-semibold text-lg"
               >
-                1-800-123-4567
+                9152987821
               </a>
             </div>
             
