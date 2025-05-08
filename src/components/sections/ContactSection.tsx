@@ -25,7 +25,7 @@ const ContactSection: React.FC = () => {
                 Our crisis support line is available 24 hours a day, 7 days a week.
               </p>
               <a
-                href="tel:+18001234567"
+                href="tel:+09152987821"
                 className="text-primary hover:text-primary-dark font-semibold text-lg"
               >
                 9152987821
