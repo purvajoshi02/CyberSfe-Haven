@@ -79,7 +79,7 @@ const ContactSection: React.FC = () => {
                 </div>
                 <div className="ml-3">
                   <p className="text-sm text-red-700 dark:text-red-300">
-                    If you believe you are in immediate physical danger, please call emergency services (911 in the US) right away.
+                    If you believe you are in immediate physical danger, please contact emergency service number 112 right away.
                   </p>
                 </div>
               </div>
@@ -92,14 +92,15 @@ const ContactSection: React.FC = () => {
                 </h4>
                 <ul className="space-y-2 text-gray-600 dark:text-gray-300">
                   <li>
-                    <span className="font-medium">National Domestic Violence Hotline:</span> 1-800-799-7233
+                    <span className="font-medium">National Domestic Violence Hotline:</span> 1800 212 9131
                   </li>
                   <li>
-                    <span className="font-medium">Crisis Text Line:</span> Text HOME to 741741
+                    <span className="font-medium">National Sexual Assault Hotline:</span> 1800 656 4673
                   </li>
                   <li>
-                    <span className="font-medium">National Suicide Prevention Lifeline:</span> 1-800-273-8255
+                    <span className="font-medium">Women Helpline number:</span> 181
                   </li>
+
                 </ul>
               </div>
               
